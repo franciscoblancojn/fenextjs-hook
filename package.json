@@ -1,6 +1,6 @@
 {
   "name": "fenextjs-hook",
-  "version": "15.2.0",
+  "version": "15.2.1",
   "description": "",
   "main": "./cjs/index.js",
   "module": "./cjs/index.js",
@@ -55,7 +55,7 @@
     "fenextjs-date": "3.3.0",
     "fenextjs-dependencies": "1.0.0",
     "fenextjs-error": "3.2.3",
-    "fenextjs-functions": "7.0.1",
+    "fenextjs-functions": "7.0.2",
     "fenextjs-interface": "4.8.1",
     "fenextjs-validator": "4.7.0",
     "jwt-decode": "4.0.0",
